@@ -1,0 +1,48 @@
+                                Isola.
+
+                    (c) Patrick Pr‚martin 02/1992.
+                        (c) Olf Software 1992.
+________________________________________________________________________________
+
+     RŠgle du jeu:
+          Chaque joueur devra … son tour d‚placer son pion, puis d‚truire une
+          case du damier.
+          Les d‚placements se font en choisissant une case adjacente … son
+          propre pion:
+                              \|/
+                              -*-   Les 8 directions sont possibles. On ne peut
+                              /|\   se d‚placer que d'une case … la fois.
+          La destruction d'une case se fait en la s‚lectionnant. Vous ne pouvez
+          pas d‚truire les cases occup‚es par un pion.
+
+     Le perdant sera le joueur qui ne pourra plus d‚placer son pion (entour‚ de
+     vide).
+
+     Vous pouvez jouer seul contre l'ordinateur, ou … deux. Voyez la
+     d‚monstration (ordinateur contre lui-mˆme) pour vous entraŒner. Ce jeu
+     n'est pas trŠs difficile... et la rŠgle est simple.
+
+     Pour faire jouer l'ordinateur, saisissez 'COMPUTER' lorsque le jeu vous
+     demande le nom des joueurs, ou mettez le votre pour jouer.
+
+     La s‚lection d'une case se fait en d‚pla‡ant un cadre … l'aide des flŠches
+     du clavier, et en appuyant sur <RETURN> lorsque vous ˆtes sur la case
+     voulue. Si la s‚lection est impossible, changez de case...
+
+     Vous pouvez arr‚ter une partie en appuyant sur <ESC> pendant le jeu.
+________________________________________________________________________________
+
+     Ce logiciel est distribu‚ en Shareware. Je vous demande de m'envoyer un
+     chŠque de 50 francs fran‡ais si vous aimez ce jeu. En ‚change, vous
+     recevrez la derniŠre version de ce programme, ainsi que d'autres logiciels
+     Olf Software. Ces 50 francs serviront … couvrir les frais de distribution
+     de tous nos logiciels.
+     Mon adresse est la suivante:
+
+(maj du 19/12/2024 : adresse postale de l'epoque retiree du fichier, me contacter depuis https://developpeur-pascal.fr ou https://olfsoftware.fr pour toute question)
+________________________________________________________________________________
+
+Dates des mises … jour:
+
+26/02/1992 v1.0
+     R‚alisation de la version de base: 2 joueurs (dont ordinateur), clavier.
